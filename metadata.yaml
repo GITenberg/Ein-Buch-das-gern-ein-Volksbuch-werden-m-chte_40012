@@ -1,0 +1,31 @@
+_repo: Ein-Buch-das-gern-ein-Volksbuch-werden-m-chte_40012
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40012-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ebner-Eschenbach, Marie von
+    aliases:
+    - Ebner von Eschenbach, Marie, Freifrau
+    - Eschenbach, Marie Ebner von
+    - Von Ebner-Eschenbach, Marie
+    birthdate: 1830
+    deathdate: 1916
+    gutenberg_agent_id: '35081'
+    url: http://www.gutenberg.org/2009/agents/35081
+    wikipedia: http://en.wikipedia.org/wiki/Marie_von_Ebner-Eschenbach
+description: ''
+gutenberg_issued: '2012-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40012'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+title: Ein Buch, das gern ein Volksbuch werden möchte
+url: http://www.gutenberg.org/ebooks/40012
