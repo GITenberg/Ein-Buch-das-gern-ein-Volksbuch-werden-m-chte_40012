@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35081
     wikipedia: http://en.wikipedia.org/wiki/Marie_von_Ebner-Eschenbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40012#Ein-Buch-das-gern-ein-Volksbuch-werden-m-chte
 gutenberg_issued: '2012-06-16'
 gutenberg_type: Text
 identifiers:
